@@ -1,0 +1,18 @@
+.login{
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+    .login-form{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        border: 1px solid rgb(101, 93, 93);
+        border-radius: 16px;
+        padding: 10px;
+        button{
+            width: fit-content;
+            flex: end
+            ;
+        }
+    }
+}

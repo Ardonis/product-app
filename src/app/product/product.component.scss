@@ -1,0 +1,16 @@
+mat-form-field{
+    width: 100%;
+    .filet-add{
+      display: flex;
+      justify-content: space-between;
+    }
+}
+.navbar{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  .links a{
+    margin: 15px;
+    color: white;
+  }
+}
